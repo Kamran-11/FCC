@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+    background-color: #eee;
+}
+
+h2  {
+    margin: 1rem 0 0 0;
+    padding: 0;
+}
+
+.timeline {
+    display: inline-block;
+    text-align: justify;
+    margin: 0 auto;
+    list-style: inside  ;
+    padding: 1.5rem;
+    line-height: 2;
+}
+
+figure {    
+    padding: 2rem 15rem;
+    width: 60%;
+    
+    background-color: white;
+    margin: auto;
+}
+
+header {
+    padding: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-size: 4rem;
+    font-weight: 900;
+}
+
+footer {
+    padding: 0.5rem;
+    font-weight: bold;
+}
+
+span {
+    font-size: 0.75rem;
+}
